@@ -14,6 +14,7 @@ Tests to evaluate each email provider.
 | Price           | 30€       | 30-50$   | 0-12€    | 12€    | 12€         |            |         |
 | Contacts        |
 | Calendar        |
+| Reminder        |
 | IMAP/SMTP       |
 | search          |
-| plus-addressing | ? |
+| rules           | |
