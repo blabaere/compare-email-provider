@@ -11,6 +11,7 @@ Tests to evaluate each email provider.
 
 | Test            | Mailfence | Fastmail | Tutanota | Posteo | NetCourrier | ProtonMail | Mailden |
 | ---             | ---       | ---      | ---      | ---    | ---         | ---        | ---     |
+| Price           | 30€       | 30-50$   | 0-12€    | 12€    |             |            |         |
 | Contacts        |
 | Calendar        |
 | IMAP/SMTP       |
