@@ -9,6 +9,6 @@ Tests to evaluate each email provider.
 
 ## Tests results
 
-| Test | Mailfence |
-| --- | --- |
+| Test | Mailfence | Fastmail | Tutanota | Posteo | NetCourrier | ProtonMail | Mailden |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | plus-addressing | ? |
